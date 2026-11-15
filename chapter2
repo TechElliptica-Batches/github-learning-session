@@ -1,0 +1,7 @@
+techelliptica chapter 2
+
+git reset -   commit history - intact
+git reset c7b6b8c69ba834adc06ccbec815c433e7082bfc2
+git reset HEAD~1
+
+git revert -  commit history - revert commit
